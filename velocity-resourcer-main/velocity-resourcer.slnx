@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="velocity-resourcer.vcxproj" Id="29440950-d795-497f-9379-30e961e9b076" />
+</Solution>
